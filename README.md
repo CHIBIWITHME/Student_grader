@@ -37,5 +37,14 @@ Ensure you have the following installed:
 
 ```bash
 pip install fpdf2 matplotlib seaborn pandas
+```
+---
+
+### Author
+*UGWUANYI, ANTHONY C.*
+
+**LinkedIn:** <a href="https://www.linkedin.com/in/chibi-ugwuanyi-663835252/" target="_blank">chibi-ugwuanyi-663835252/</a>
+
+**E-mail:** <a href="https://mail.google.com" target="_blank">chibiugwuanyi@gmail.com</a>
 
 
