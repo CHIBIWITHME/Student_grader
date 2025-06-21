@@ -36,7 +36,7 @@ A Python-based student grading and report generation system built using **Jupyte
 Ensure you have the following installed:
 
 ```bash
-pip install fpdf2 matplotlib seaborn pandas
+pip install fpdf2 re os csv textwrap matplotlib datetiime
 ```
 ---
 
